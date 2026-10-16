@@ -1,16 +1,13 @@
 # Data Science & Generative AI Submissions
 
-## About This Repository
+## Description
 
-This repository contains my coursework and assignments for the Data Science & Generative AI module at the University of Warwick.
+This repository contains all my assignment notebook, data analysis, and code developed for the Data Science & Generative AI module.
 
-## Contents
+## Table of Contents
 
 [Assignment 1: Data and Feature Engineering](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb)
 
-## Tools and Technologies
+## License
 
-- Python
-- Pandas
-- Google Colab
-- Jupyter Notebooks
+This work is related under the MIT License.
