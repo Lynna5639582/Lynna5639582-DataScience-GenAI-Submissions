@@ -10,6 +10,8 @@ This repository contains all my assignment notebook, data analysis, and code dev
 
 [Assignment 2: Joining Data Frames](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/2_02_Joining_DataFrames.ipynb)
 
+[Assignment 3: Calculated Fields, Indexing and Subsetting](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/Copy_of_2_03_Calculated_Fields%2C_Indexing_and_Subsetting.ipynb)
+
 [Assignment 5: Exploratory Data Analysis](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/Copy_2_05_Exploratory_Data_Analysis.ipynb) 
 
 ## License
