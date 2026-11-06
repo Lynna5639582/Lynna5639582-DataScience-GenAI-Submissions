@@ -18,6 +18,10 @@ This repository contains all my assignment notebook, data analysis, and code dev
 
 [Assignment 6: Decision Trees](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/Copy_of_4_01_Decision_Trees.ipynb)
 
+
+
+[Assignment 8: Modelling Hackathon](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/Copy_of_5_02_Modelling_Hackathon.ipynb)
+
 ## License
 
 This work is related under the MIT License.
