@@ -18,7 +18,7 @@ This repository contains all my assignment notebook, data analysis, and code dev
 
 [Assignment 6: Decision Trees](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/Copy_of_4_01_Decision_Trees.ipynb)
 
-
+[Assignment 7: Logistics Regression](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/Copy_of_4_02_Logistics_Regression.ipynb)
 
 [Assignment 8: Modelling Hackathon](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/Copy_of_5_02_Modelling_Hackathon.ipynb)
 
