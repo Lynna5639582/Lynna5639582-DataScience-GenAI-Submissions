@@ -22,6 +22,8 @@ This repository contains all my assignment notebook, data analysis, and code dev
 
 [Assignment 8: Modelling Hackathon](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/Copy_of_5_02_Modelling_Hackathon.ipynb)
 
+[Assignment 10: Exploratory Data Analysis (EDA)](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/7_01_Exploratory_Data_Analysis_Salary_Student.ipynb)
+
 ## License
 
 This work is related under the MIT License.
