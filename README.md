@@ -24,6 +24,8 @@ This repository contains all my assignment notebook, data analysis, and code dev
 
 [Assignment 10: Exploratory Data Analysis (EDA)](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/7_01_Exploratory_Data_Analysis_Salary_Student.ipynb)
 
+[Assignment 11: Machine Learning Modelling – Loan Data](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/Copy_of_7_02_Machine_Learning_Modelling_Solution.ipynb)
+
 ## License
 
 This work is related under the MIT License.
