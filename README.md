@@ -24,6 +24,8 @@ This repository contains all my assignment notebook, data analysis, and code dev
 
 [Assignment 9: Logistic Regression in PyTorch](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/Copy_of_6_01_logistic_regression_in_pytorch.ipynb)
 
+[Assignment 10: Dense Neural Network (with PyTorch)](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/Copy_of_6_02_DNN_101.ipynb)
+
 [Assignment 11: Exploratory Data Analysis (EDA)](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/7_01_Exploratory_Data_Analysis_Salary_Student.ipynb)
 
 [Assignment 12: Machine Learning Modelling – Loan Data](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/Copy_of_7_02_Machine_Learning_Modelling_Solution.ipynb)
