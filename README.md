@@ -30,6 +30,8 @@ This repository contains all my assignment notebook, data analysis, and code dev
 
 [Assignment 12: Machine Learning Modelling – Loan Data](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/Copy_of_7_02_Machine_Learning_Modelling_Solution.ipynb)
 
+[Assignment 13: Transformers - Backbone and Fine-tuning](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/Copy_of_8_01_Transformer_Backbone_and_Finetuning.ipynb)
+
 [Practice 1: Heart Disease UCI](https://github.com/Lynna5639582/Lynna5639582-DataScience-GenAI-Submissions/blob/main/Practice_Data_Set_ML.ipynb)
 
 ## License
